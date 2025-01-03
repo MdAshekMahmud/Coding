@@ -1,7 +1,4 @@
 # Coding
 
-Basic Programming Repository
-<br>
-By
-<br>
+# Basic Programming Repository
 # Md Ashek Mahmud
